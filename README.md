@@ -187,8 +187,8 @@ project/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/multi-agent-ctr-prediction-pipeline.git
-cd multi-agent-ctr-prediction-pipeline
+git clone https://github.com/sanjanachitragar/Multi-Agent-CTR-Prediction.git
+cd Multi-Agent-CTR-Prediction
 ```
 
 ### Install Dependencies
