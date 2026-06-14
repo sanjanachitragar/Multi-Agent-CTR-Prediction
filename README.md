@@ -33,6 +33,7 @@ These challenges make building reliable prediction pipelines difficult.
 ---
 
 ## 💡 Solution
+<img width="940" height="557" alt="image" src="https://github.com/user-attachments/assets/a50011dd-a85e-4742-8288-9f6c18e98574" />
 
 To address these challenges, this project implements a **Multi-Agent System** where each agent specializes in a specific stage of the machine learning lifecycle.
 
@@ -122,6 +123,10 @@ The dataset contains advertisement impression information:
 | ad_type    | Type of advertisement                |
 | time_spent | User engagement duration             |
 | ctr        | Click Through Rate (Target Variable) |
+
+<img width="940" height="271" alt="image" src="https://github.com/user-attachments/assets/1a7eced8-c11b-4715-800d-ddba3562865d" />
+
+
 
 ---
 
@@ -232,13 +237,7 @@ A lower MSE indicates that predicted CTR values are closely aligned with actual 
 
 ## 📷 Visualization
 
-Place the generated image in the repository root folder and GitHub will automatically display it:
-
-```markdown
-![CTR Prediction Results](ctr_scatter_plot.png)
-```
-
-
+<img width="800" height="600" alt="ctr_scatter_plot" src="https://github.com/user-attachments/assets/302b452d-e453-40c9-9f9c-a1e352b51776" />
 
 ---
 
